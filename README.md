@@ -2,8 +2,6 @@
 
 Web Application Functionalities
 
-Our Web application supports the following Functionalities:
-
  New user registration: A new user can Register/Sign up by providing user details such as Name, Email, Phone number and Password.
 
  Existing user Login and Logout: All registered users can successfully Login by entering their credentials such as Email and password. The Logged in Users can log out from any page of the website.
